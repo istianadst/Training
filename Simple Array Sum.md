@@ -1,12 +1,6 @@
 # Training
 
-
-
-
-
-
-
-
+Simple Array Sum
 
 
 import java.io.*;
