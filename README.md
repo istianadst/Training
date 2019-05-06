@@ -1,0 +1,2 @@
+# Training
+Simple Array Sum
