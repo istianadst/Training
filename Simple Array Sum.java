@@ -1,18 +1,5 @@
-# Training
-
-Simple Array Sum (Java)
-
-
-
-
-
-
-
-
-
-
-
-
+/*Training
+Simple Array Sum (Java)*/
 import java.io.*;
 import java.math.*;
 import java.text.*;
